@@ -1,3 +1,1 @@
-print("hello world")
-print("hello world")
-print("hello world")
+print("привітання для Дениса Геннадійовича")
